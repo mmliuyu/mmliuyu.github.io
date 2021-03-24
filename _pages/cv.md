@@ -57,7 +57,7 @@ Work experience
 * Jul.2016 - Aug.2016 Intern
   * IBM China Procurement Company Ltd
   * Cogntive Email System & Procurement System
-  * Duties included: Data Scheme Design and System Implement
+  * Duties included: Data Scheme Design and System Development
 
 
 Service and leadership
