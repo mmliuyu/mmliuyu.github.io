@@ -8,8 +8,8 @@
 # Site Settings
 github                   : [metadata]
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
+title                    : "Welcome"
+title_separator          : #"-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://mmliuyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Yu Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #""
   location         : "Location"
   employer         :
   pubmed           : 
