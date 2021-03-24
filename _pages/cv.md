@@ -62,7 +62,7 @@ Work experience
 
 Service and leadership
 ======
-* Aug.2015 CCF Young Computer Scientists & Engineers Forum Volunteer
+* Aug.2015 The Sixth CCF National Excellent Doctoral Forum Volunteer
 
 Awards
 ======
