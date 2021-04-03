@@ -20,8 +20,8 @@ Skills
   * Ant Colony Optimization
   * Particle Swarm Optimization
   * Genetic Algorithm
-* Programming Languages: C++, Python, Angular
-* Computer Systems: Operating Systems, Networking, Database, Principles of Computer Composition
+* Programming Languages: C++, Python, Golang, Angular
+* Computer System: Networking, Operating System, Database, Principles of Computer Composition
 
 Publications
 ======
@@ -34,7 +34,7 @@ Events
 * Sep.2014 - Jul.2017:
   * Sun Yat-sen University 
   * Key Lab. Machine Intelligence and Advanced Computing, Ministry of Education
-  * Supervisor: Wei-Neng Chen
+  * Supervisor: <a href="https://scholar.google.com/citations?user=JLICc2sAAAAJ&hl=en&oi=ao"> Wei-Neng Chen </a>
 
 Talks
 ======
