@@ -46,7 +46,7 @@ Work experience
 ======
 * Apr. 2020 - Apr. 2021 Senior Software Engineer 
   * NetEase
-  * Cloud Gaming Platform
+  * <a href="https://cg.163.com/#/mobile"> Cloud Gaming Platform </a>
   * Duties included: Server-Side Development
 
 * Jul. 2017 - Apr. 2020 Senior Software Engineer
